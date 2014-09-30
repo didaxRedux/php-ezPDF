@@ -1,6 +1,5 @@
 {
     "name": "ros/ezpdf",
-    "version": "0.12.0-RC17",
     "description": "Porting of the well-known R&OS PDF class.",
     "license": "MIT",
     "autoload": {
