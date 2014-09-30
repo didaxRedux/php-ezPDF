@@ -1,7 +1,7 @@
-php-ezPDF
+ezPDF porting for Composer
 =========
 
-This is a simple porting of the R&amp;OS PDF class for PHP generates dynamic pdf documents without installing any additional modules.
+This is a simple porting of the weel-known R&amp;OS PDF class.
 
 <h3>Link</h3>
-Original code can be found at http://sourceforge.net/projects/pdf-php/
+All codes is based on original release at http://sourceforge.net/projects/pdf-php/
